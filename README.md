@@ -16,3 +16,6 @@ $ node gbapp.js
 ```
 
 Point your browser to `http://localhost:8081`.
+
+## In action
+![image](Showcase.gif)
